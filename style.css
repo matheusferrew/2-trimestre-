@@ -1,0 +1,23 @@
+body{ 
+background-color: rgb(255, 0, 221);
+color: rgba(124, 13, 214, 0.836);
+
+}
+h1
+{
+    color: hwb(64 29% 14%);
+}
+h2
+{ color: rgb(21, 156, 180);}
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+.abas-textos{
+    background-color:var(--texto-fundo);
+    
+}
